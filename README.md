@@ -1,0 +1,2 @@
+# dgbminingpro
+Learning git hub
